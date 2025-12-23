@@ -8,17 +8,29 @@ The purpose of this repository is to document learning progress, demonstrate tec
 
 ## 📂 Repository Structure
 ├── programming-homeworks/
+
 │ ├── homework_01_.ipynb
+
 │ ├── homework_02_.ipynb
+
 │ ├── homework_03_.ipynb
+
 │ ├── homework_04_.ipynb
+
 │ ├── homework_05_.ipynb
+
 │ ├── homework_06_.ipynb
+
 │ ├── homework_07_.ipynb
+
 │ ├── homework_08_.ipynb
+
 │ ├── homework_09_.ipynb
+
 │ ├── homework_10_.ipynb
+
 │ └── homework_11_.ipynb
+
 └── README.md
 
 ---
